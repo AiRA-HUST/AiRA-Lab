@@ -3,7 +3,7 @@ baseurl: "/AiRA-Lab"                # leading slash, no trailing slash
 
 # site properties and page defaults
 title: AiRA
-subtitle: Artificial Intelligence for Reasoning and Action
+subtitle: Artificial Intelligence for Reasoning &amp; Action
 description: Illuminating nature’s principles through AI — for intelligent design and control.
 header: images/background.jpg
 footer: images/background.jpg
