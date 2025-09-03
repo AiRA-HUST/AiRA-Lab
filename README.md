@@ -3,8 +3,7 @@
 <img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true" alt="AiRA Lab">
 </p>
 
-Lab Website Template (LWT) is an easy-to-use, flexible website template for labs.
-Spend less time worrying about managing a website and citations, and more time running your lab.
+[AiRA](https://aira-hust.github.io/AiRA-Lab) is a research group dedicated to developing intelligent systems that learn the underlying principles of complex physical, biological, and engineered systems — and use that knowledge to design and control them. By bridging data-driven discovery, scientific reasoning, and real-world actuation, we aim to unlock new capabilities in inverse design, autonomous control, and interpretable modeling. At AiRA, we see AI not just as a tool for automation, but as a partner in understanding, inventing, and governing the systems that shape our world.
 
 👇👇 **Get Started** 👇👇
 
