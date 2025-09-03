@@ -14,7 +14,7 @@
   include button.html
   type="github"
   text="On GitHub"
-  link="greenelab/lab-website-template"
+  link="aira-hust/AiRA-Lab"
 %}
 
 {% include section.html %}
