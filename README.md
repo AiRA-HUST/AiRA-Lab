@@ -1,4 +1,4 @@
-<h1 align="center">AiRA Lab</h1>
+<h1 align="center">AiRA Laboratory</h1>
 <p align="center">
 <img height="200" src="https://raw.githubusercontent.com/aira-hust/AiRA-Lab/main/images/icon.png?raw=true" alt="AiRA">
 </p>
