@@ -3,12 +3,12 @@
 
 # AiRA Lab
 
-[Lab Website Template](https://aira-hust.github.io/AiRA-Lab) is a research group dedicated to developing intelligent systems that learn the underlying principles of complex physical, biological, and engineered systems — and use that knowledge to design and control them. By bridging data-driven discovery, scientific reasoning, and real-world actuation, we aim to unlock new capabilities in inverse design, autonomous control, and interpretable modeling. At AiRA, we see AI not just as a tool for automation, but as a partner in understanding, inventing, and governing the systems that shape our world.
+[AiRA](https://aira-hust.github.io/AiRA-Lab) is a research group dedicated to developing intelligent systems that learn the underlying principles of complex physical, biological, and engineered systems — and use that knowledge to design and control them. By bridging data-driven discovery, scientific reasoning, and real-world actuation, we aim to unlock new capabilities in inverse design, autonomous control, and interpretable modeling. At AiRA, we see AI not just as a tool for automation, but as a partner in understanding, inventing, and governing the systems that shape our world.
 
 {%
   include button.html
   type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+  link="https://aira-hust.gitbook.io/AiRA-Lab-docs"
 %}
 {%
   include button.html
