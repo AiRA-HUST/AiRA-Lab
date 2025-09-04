@@ -1,6 +1,6 @@
 ---
 name: Chien Truong-Quoc
-image: images/ChienTQ.jpg
+image: images/ChienTQ.png
 role: principal-investigator
 affiliation: Hanoi University of Science and Technology
 aliases:
